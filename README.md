@@ -12,4 +12,6 @@ Held at [Processing Community Day 2019, BLR](https://processingindia.org/bangalo
 - [Lines](https://editor.p5js.org/rasagy/sketches/XIau100-T)
 - [Circles](https://editor.p5js.org/rasagy/sketches/i7pwsbj2r)
 - [Circles x circles](https://editor.p5js.org/rasagy/sketches/2ZqzrRVad)
-- [Walker](https://editor.p5js.org/rasagy/sketches/cNXkjOXtp)
+- [Walker](https://editor.p5js.org/rasagy/sketches/Hh5YNuMuk)
+
+- [Jittery Walker](https://editor.p5js.org/rasagy/sketches/cNXkjOXtp)
